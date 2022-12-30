@@ -4,6 +4,9 @@ Coletânea de aplicações usadas raramente para pronto-uso via contêiner.
 
 > Software Livre, Sociedade Livre.
 
+## Programas disponíveis
+-  unrar
+
 ## Uso
 
 ### Extrair Arquivos
