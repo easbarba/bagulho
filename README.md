@@ -24,6 +24,9 @@ Para criar o contêiner use algo dessa forma, ou como prefira:
 
 PS: Os arquivos estão no diretório /bagassa se for rodar interativamente. :)
 
+## TODO
+    -  rodar comando de qualquer pasta
+
 ## Licença
 
 [GPL-v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
