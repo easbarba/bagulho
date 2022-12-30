@@ -27,6 +27,10 @@ PS: Os arquivos estão no diretório /bagassa se for rodar interativamente. :)
 ## TODO
     -  rodar comando de qualquer pasta
 
+## Motivação
+
+Para evitar instalar aplicativos de binários não livres ou código-livre, essa eh uma solução decente pro problema.  
+
 ## Licença
 
 [GPL-v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
