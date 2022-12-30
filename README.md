@@ -18,7 +18,11 @@ Para maior praticidade ponha o script em alguma pasta no `$PATH`, algo como `$HO
     bagulho.sh 'unrar x como_voce_eh_burro_cara.rar'
 
 ## Contêiner
-Para criar o contêiner use algo dessa forma, ou como prefira:
+Para criar o contêiner via URL:
+
+    podman build https://codeberg.org/barbaneigro/bagulho/raw/branch/main/Dockerfile --tag $USER/bagulho:latest
+    
+Ou localmente: 
 
     docker build --tag $USER/bagulho:latest .
 
