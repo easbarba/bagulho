@@ -13,9 +13,11 @@ Uma vez no diretório contendo os arquivos a serem extraídos, rode o script
 Para maior praticidade ponha o script em alguma pasta no `$PATH`, algo como `$HOME/bin` ou `$HOME/.local/bin`.
 
 ## Contêiner
-    Para criar o contêiner use algo dessa forma, ou como prefira:
+Para criar o contêiner use algo dessa forma, ou como prefira:
 
     docker build --tag $USER/bagulho:latest .
+
+PS: Os arquivos estão no diretório /bagassa se for rodar interativamente. :)
 
 ## Licença
 

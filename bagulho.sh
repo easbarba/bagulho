@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-podman run --rm -v "$PWD":/aqui -w /aqui bagulho "$@"
+podman run --rm -v "$PWD":/bagassa -w /bagassa bagulho:latest bash -c "$@"
