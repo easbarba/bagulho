@@ -12,6 +12,8 @@ Uma vez no diretório contendo os arquivos a serem extraídos, rode o script
 
 Para maior praticidade ponha o script em alguma pasta no `$PATH`, algo como `$HOME/bin` ou `$HOME/.local/bin`.
 
+    bagulho.sh 'unrar x como_voce_eh_burro_cara.rar'
+
 ## Contêiner
 Para criar o contêiner use algo dessa forma, ou como prefira:
 
