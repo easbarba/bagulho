@@ -31,11 +31,11 @@ Ou localmente:
 PS: Os arquivos estão no diretório /bagassa se for rodar interativamente. :)
 
 ## TODO
-    -  rodar comando de qualquer pasta
+-  rodar comando de qualquer pasta
 
 ## Motivação
 
-Para evitar instalar aplicativos de binários não livres ou código-livre, essa eh uma solução decente pro problema.  
+Para evitar instalar aplicativos de binários não livres ou código-livre, essa eh uma solução decente pro problema.
 
 ## Licença
 
