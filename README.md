@@ -1,11 +1,13 @@
 # Bagulho
 
-Coletânea de aplicações usadas raramente para pronto-uso via contêiner. 
+Coletânea de aplicações CLI, nem tão importantes, para rodar via contêiner,
+assim evitando precisar as ter instaladas no seu sistema.
 
 > Software Livre, Sociedade Livre.
 
 ## Programas disponíveis
--  unrar
+- unrar
+- yt-dlp
 
 ## Uso
 
