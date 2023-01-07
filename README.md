@@ -6,12 +6,14 @@ assim evitando precisar as ter instaladas no seu sistema.
 > Software Livre, Sociedade Livre.
 
 ## Programas disponíveis
+
 - unrar
 - yt-dlp
 
 ## Uso
 
 ### Extrair Arquivos
+
 Uma vez no diretório contendo os arquivos a serem extraídos, rode o script
 `bagulho.sh` dando o comando a ser rodado via contêiner e prontamente estarão disponíveis no atual diretório.
 
@@ -20,18 +22,20 @@ Para maior praticidade ponha o script em alguma pasta no `$PATH`, algo como `$HO
     bagulho.sh unrar x agorinha.rar
 
 ## Contêiner
+
 Para criar o contêiner via URL:
 
-    podman build https://codeberg.org/barbaneigro/bagulho/raw/branch/main/Dockerfile --tag $USER/bagulho:latest
-    
-Ou localmente: 
+    podman buildhttps://raw.githubusercontent.com/easbarba/bagulho/main/Dockerfile --tag $USER/bagulho:latest
+
+Ou localmente:
 
     docker build --tag $USER/bagulho:latest .
 
 PS: Os arquivos estão no diretório /bagassa se for rodar interativamente. :)
 
 ## TODO
--  rodar comando de qualquer pasta
+
+- rodar comando de qualquer pasta
 
 ## Motivação
 
